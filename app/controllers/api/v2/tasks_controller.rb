@@ -3,7 +3,7 @@ class Api::V2::TasksController < ApplicationController
 
   def index
     tasks = current_user.tasks
-    render json: { tasks: tasks }, status: 200
+    render json: tasks, status: 200
   end
 
   def show
@@ -24,7 +24,7 @@ class Api::V2::TasksController < ApplicationController
   def update
     task = current_user.tasks.find(params[:id])
 
-    if task.update_attributes(task_params)
+    if task.update(task_params)
       render json: task, status: 200
     else
       render json: { errors: task.errors }, status: 422
