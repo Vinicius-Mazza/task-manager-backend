@@ -52,3 +52,6 @@ gem 'devise'
 
 gem 'active_model_serializers', '~> 0.10.0'
 gem 'ransack'
+
+gem 'omniauth'
+gem 'devise_token_auth', github: 'lynndylanhurley/devise_token_auth'
