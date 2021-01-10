@@ -60,6 +60,6 @@ Alternatively, consult the GitHub documentation at [how to create a pull request
 
 ## 📝 License
 
-This project is under license. See the license [LICENSE](LICENSE.md) file for more details.
+This project is under license. See the license [LICENSE](LICENSE) file for more details.
 
 [⬆ Back to the top](#api-task-manager)<br>
