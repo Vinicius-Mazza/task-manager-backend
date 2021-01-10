@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Vinicius-Mazza/task-manager-backend?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Vinicius-Mazza/task-manager-backend?style=for-the-badge)
 
-<img src="https://i.ibb.co/Ng0Bt1f/task-manager.png" min-width="400px" max-width="400px" width="400px" alt="image">
+<img src="https://i.ibb.co/RznBP0b/task-manager.png" min-width="400px" max-width="400px" width="400px" alt="image">
 
 > This project has the function of being the backend of a FullStack application using Ruby on Rails on the backend, Angular on the frontend and Nativescript on the mobile.
 
