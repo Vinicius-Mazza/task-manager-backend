@@ -50,9 +50,9 @@ rails s
 To contribute to API Task Manager, follow these steps:
 
 1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and confirm them: `git commit -m '<message_commit>'`
-4. Send to the original branch: `git push origin <api-task-manager> / <local>`
+2. Create a branch: `git checkout -b branch_name`.
+3. Make your changes and confirm them: `git commit -m 'message_commit'`
+4. Send to the original branch: `git push origin api-task-manager / local`
 5. Create the pull request.
 
 Alternatively, consult the GitHub documentation at [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
